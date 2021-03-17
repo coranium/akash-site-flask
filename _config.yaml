@@ -110,18 +110,12 @@ tools:
   # Consider that the following are fa icons:
   #   https://fontawesome.com/icons?d=gallery&s=brands
   - python
-  - git-alt
   - github
-  - gitlab
-  - gitkraken
-  - raspberry-pi
   - google
   - google-drive
-  - slack
-  - trello
   - markdown
   - html5
-  - bootstrap
+
 extra_skills:
   - Facebook Messenger, Telegram, and SMS bots
   - Web scraping and web automation
